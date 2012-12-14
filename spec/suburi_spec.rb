@@ -7,5 +7,3 @@ describe Suburi do
     Suburi.lunch.should be
   end
 end
-
-
